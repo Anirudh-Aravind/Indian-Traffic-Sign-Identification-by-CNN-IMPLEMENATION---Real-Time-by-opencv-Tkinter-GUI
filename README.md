@@ -1,5 +1,8 @@
 # Indian Traffic Sign Identification by CNN : IMPLEMENATION -> Real Time by opencv / Tkinter GUI
 
+Real time Identification of Indian traffic signs by openCV and show which class that traffic sign belongs to by using Keras and Deep Learning 2D convolution layer and deployed as web app by Flask web framework and also a shows a simple tkinter GUI using the same model
+
+
 ## Output for Flask API
 <img width="880" alt="2021-08-03 (5)" src="https://user-images.githubusercontent.com/84184475/128228106-e50ddc33-284a-4654-8da5-7b60021f3477.png"><img width="829" alt="2021-08-03 (8)" src="https://user-images.githubusercontent.com/84184475/128228214-1581d3a4-dd62-4484-9062-92a0c16a9ec2.png"><img width="807" alt="2021-08-03 (6)" src="https://user-images.githubusercontent.com/84184475/128228246-bd848298-0f3c-428c-9a10-6544c1da51c3.png">
 
