@@ -38,7 +38,7 @@ Flask is a micro web framework written in Python that allows us to build up web-
 
 Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI.
 
-For run the implementation code arrange the file in the follwing order
+For run the implementation code arrange the files in the follwing order
 
 <img width="188" alt="File_save" src="https://user-images.githubusercontent.com/84184475/128232160-c1bf437c-585a-4f03-9829-84132c1f75cc.png">
 
