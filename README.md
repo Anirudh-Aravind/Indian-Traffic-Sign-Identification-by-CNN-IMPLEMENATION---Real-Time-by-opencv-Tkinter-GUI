@@ -42,3 +42,13 @@ For run the implementation code arrange the files in the follwing order
 
 <img width="188" alt="File_save" src="https://user-images.githubusercontent.com/84184475/128232160-c1bf437c-585a-4f03-9829-84132c1f75cc.png">
 
+
+
+
+# you can download the dataset from the below link
+https://drive.google.com/drive/folders/1wU5yopEV6NnNFSeXSG9hx-QKe65Ea0-I?usp=sharing
+
+
+
+# you can download the Trained Model from the below link
+https://drive.google.com/file/d/19-X6jyaWEvVucq5jogK6w9YOUJIdEsF4/view?usp=sharing
